@@ -31,7 +31,7 @@ Currently hacking on [jhns.no](https://jhns.no) and exploring systems programmin
 
 **GitHub stats**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Okaza03&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=okaza03&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
