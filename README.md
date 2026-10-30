@@ -1,10 +1,5 @@
 ## 👋 Hi, I'm Noah
 
-Developer from Tromsø, Norway — I build tools for the terminal and the web.
-Currently hacking on [jhns.no](https://jhns.no) and exploring systems programming.
-
----
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
