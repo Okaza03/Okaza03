@@ -32,7 +32,7 @@
 
 **Things I'm building**
 
--  [**jhns.no**](https://github.com/Okaza03/Shotgun-Surgery) — Portfolio page.
+-  [**jhns.no**](https://jhns.no) — Portfolio page.
 -  [**speedfestival.se**](https://speedfestival.se) — Family driven car festival.
 
 ---
